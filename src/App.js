@@ -12,6 +12,10 @@ function App() {
      <Main/>
      <Main/>
      <Main/>
+     <Main/>
+     <Main/>
+     <Main/>
+     <Main/>
      <Footer/>
     </div>
   );
