@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
      <Header/>
-     <Main/>
-     <Main/>
-     <Main/>
+     <Main name='pepe'/>
+     <Main name = 'papo'/>
+     <Main name = 'pupo'/>
      <Main/>
      <Main/>
      <Main/>

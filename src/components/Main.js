@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Main = () => {
+const Main = ({name}) => {
   return (
     <main className='dad'>
-       Main
+       <h1>{name}</h1>
     </main>
   )
 }
